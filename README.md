@@ -4,3 +4,4 @@ Your location(latitude, longitude) is sent to openweather(API) and the real time
 
 Using twillo(API) the rain alert message is sent to your phone number!
 
+TKinter for the Gui to check for Rain
