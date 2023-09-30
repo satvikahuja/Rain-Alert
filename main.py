@@ -30,8 +30,8 @@ if will_rain:
     message = client.messages \
         .create(
         body="It's going to rain⛈️ today. Remember to bring an Umbrella☔️🌈",
-        from_="+12567276831",
-        to="+917483976127"
+        from_="twillo phone number",
+        to="+your phone number"
     )
     print(message.status)
 
